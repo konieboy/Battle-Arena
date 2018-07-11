@@ -1,6 +1,6 @@
 # Battle Arena
 
-![alt text](https://github.com/konieboy/High-School-RPG-Game/blob/master/images/screen.png)
+![alt text](https://github.com/konieboy/High-School-RPG-Game/blob/master/images/screen.PNG)
 
 Konrad Wisniewski
 
